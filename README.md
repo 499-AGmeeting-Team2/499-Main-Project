@@ -14,3 +14,13 @@ The user group for this project is individuals who have the need of having effic
 
 ## Data Flow Diagram (DFD)
 Can be done once having a better idea of this project
+
+## Features to be implemented (for now)
+- Authentication, Authorization, Database
+- Create an Admin, Moderator, and User tables in PSQL
+- Register as a customer
+- Login as a customer
+- Add organization as a customer
+- Add Users as a Moderator 
+- Authentication & Authorization ( Cookie-Based * JWT)
+- Install Nodejs and Dependencies
