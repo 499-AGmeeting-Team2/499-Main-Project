@@ -28,5 +28,8 @@ Can be done once having a better idea of this project
 ## Dependencies
 Downloaded the dependencies for the project
 
+## PSQL
+Learn how to add authentication, authorization for Database.
+
 ## React
 Have learnt the basics of the React Library
