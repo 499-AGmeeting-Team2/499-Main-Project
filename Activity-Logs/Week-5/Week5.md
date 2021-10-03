@@ -24,3 +24,7 @@ Can be done once having a better idea of this project
 - Add Users as a Moderator 
 - Authentication & Authorization ( Cookie-Based * JWT)
 - Install Nodejs and Dependencies
+
+## Things need to done before next week
+- Read Handbook provided by client
+- Understanding the source code
