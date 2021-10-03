@@ -29,3 +29,4 @@ Can be done once having a better idea of this project
 - Read Handbook provided by client - Everyone
 - Understanding the source code - Everyone
 - Make agenda for the next meeting - Client liasion
+

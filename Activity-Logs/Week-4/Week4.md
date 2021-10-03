@@ -3,3 +3,4 @@
 ## Activities
 
 - Add project dashboard and its automation
+- Add Discord webhook for the project

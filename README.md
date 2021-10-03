@@ -24,3 +24,9 @@ Can be done once having a better idea of this project
 - Add Users as a Moderator 
 - Authentication & Authorization ( Cookie-Based * JWT)
 - Install Nodejs and Dependencies
+
+## Dependencies
+Downloaded the dependencies for the project
+
+## React
+Have learnt the basics of the React Library
