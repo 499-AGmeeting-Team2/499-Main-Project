@@ -25,5 +25,8 @@ Can be done once having a better idea of this project
 - Authentication & Authorization ( Cookie-Based * JWT)
 - Install Nodejs and Dependencies
 
-## dependencies
+## Dependencies
 Downloaded the dependencies for the project
+
+## React
+Have learnt the basics of the React Library
