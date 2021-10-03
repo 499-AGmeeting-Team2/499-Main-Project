@@ -27,6 +27,14 @@ Can be done once having a better idea of this project
 - Authentication & Authorization ( Cookie-Based * JWT)
 - Install Nodejs and Dependencies
 
+## Other Features
+### Front-end 
+- Voting
+- File sharing
+- and more
+### API
+- using Axios
+- and more
 ## Dependencies
 Downloaded the dependencies for the project
 
