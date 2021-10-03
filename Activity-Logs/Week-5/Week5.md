@@ -26,5 +26,6 @@ Can be done once having a better idea of this project
 - Install Nodejs and Dependencies
 
 ## Things need to done before next week
-- Read Handbook provided by client
-- Understanding the source code
+- Read Handbook provided by client - Everyone
+- Understanding the source code - Everyone
+- Make agenda for the next meeting - Client liasion
