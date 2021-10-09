@@ -1,42 +1,10 @@
-# 499-Main-Project
+##Tasks completed this week
+1) Identified the user groups for our project
+2) Learnt React framework
+3) Learnt PSQL
+#Client Meeting
+ The client meeting scheduled today did not take place
+# Team Meeting
+ Discussed the presentation and divided the tasks among team members
+ Tasks for me: write about functional and non-functional requirements
 
-## User group
-The user group for this project is individuals who have the need of having efficient large-scale meetings with voting needs. It is meant to be used with other live video meeting applications.
-
-## Requirements
-### Front-end
-- NodeJs
-- React
-- Redux
-- Axios
-- Webpack
-- PassportJs
-### Back-end
-- PostgreSQL
-
-## Data Flow Diagram (DFD)
-Can be done once having a better idea of this project
-
-## Features to be implemented (for now)
-- Authentication, Authorization, Database
-- Create an Admin, Moderator, and User tables in PSQL
-- Register as a customer
-- Login as a customer
-- Add organization as a customer
-- Add Users as a Moderator 
-- Authentication & Authorization ( Cookie-Based * JWT)
-- Install Nodejs and Dependencies
-
-## Other Features
-### Front-end 
-- Voting
-- File sharing
-- and more
-### API
-- using Axios
-- and more
-## Dependencies
-Downloaded the dependencies for the project
-
-## React
-Have learnt the basics of the React Library
