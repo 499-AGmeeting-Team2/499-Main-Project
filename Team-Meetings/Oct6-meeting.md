@@ -36,7 +36,7 @@ Attendees:
 	
 ## Plan
 - Get in contact with the client.
-Unfortunately, there was no meeting client meeting in week 4. We sent the client an email with the questions on the same day of the meeting but the client has not responded.
+Unfortunately, there was no client meeting in week 4. We sent the client an email with the questions on the same day of the meeting but the client has not responded.
 We hope to get more information and clarity from the client in week 6.
 
 
