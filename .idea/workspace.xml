@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Add Khai's activities log md." />
+    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Update Khai's activities log md.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs.docx" beforeDir="false" afterPath="$PROJECT_DIR$/logs.docx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633746680161</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update Khai's activities log md.">
+      <created>1633747064019</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633747064019</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +81,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add unversioned file." />
     <MESSAGE value="Add Khai's activities log md." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Khai's activities log md." />
+    <MESSAGE value="Update Khai's activities log md." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Khai's activities log md." />
   </component>
 </project>
