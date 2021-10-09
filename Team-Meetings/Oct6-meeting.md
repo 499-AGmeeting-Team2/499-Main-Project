@@ -15,7 +15,7 @@ Attendees:
 - Update the requirements of the project
 - Figure out the testing strategy
 - Determine the functional and non-functional requirements
-- Create DFD
+- Work on DFD
 
 ### Blockers + Surprises
 
