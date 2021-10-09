@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Add unversioned file." />
+    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Add Khai's activities log md." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +43,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633746259824</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Khai's activities log md.">
+      <created>1633746680161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633746680161</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,9 +66,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add unversioned file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add unversioned file." />
+    <MESSAGE value="Add Khai's activities log md." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Khai's activities log md." />
   </component>
 </project>
