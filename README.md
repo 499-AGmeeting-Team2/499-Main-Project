@@ -40,3 +40,7 @@ Downloaded the dependencies for the project
 
 ## React
 Have learnt the basics of the React Library
+
+## PSQL
+Download and install PSQL
+Started working on creating database
