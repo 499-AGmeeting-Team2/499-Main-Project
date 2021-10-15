@@ -25,9 +25,4 @@ Can be done once having a better idea of this project
 - Authentication & Authorization ( Cookie-Based * JWT)
 - Install Nodejs and Dependencies
 
-## Team Member
-# Tasks completed this week
-1)	Identified the user groups for our project
-2)	Learnt React framework
-3)	Learnt PSQL
-
+ 
