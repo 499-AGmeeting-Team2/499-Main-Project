@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Update Khai's activities log md.">
+    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Update logs.docx.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs.docx" beforeDir="false" afterPath="$PROJECT_DIR$/logs.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../329/A2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,6 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633746154630</updated>
       <workItem from="1633746156907" duration="147000" />
+      <workItem from="1633800998406" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="Add unversioned file.">
       <created>1633746259824</created>
@@ -60,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633747064019</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update logs.docx.">
+      <created>1633748778427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633748778427</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +89,7 @@
     <MESSAGE value="Add unversioned file." />
     <MESSAGE value="Add Khai's activities log md." />
     <MESSAGE value="Update Khai's activities log md." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Khai's activities log md." />
+    <MESSAGE value="Update logs.docx." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update logs.docx." />
   </component>
 </project>
