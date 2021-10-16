@@ -17,6 +17,7 @@ Attendees:
 - Determine the functional and non-functional requirements
 - Create DFD
 
+
 ### Blockers + Surprises
 
 - We did not meet with the client due to client's inavailablity
@@ -41,6 +42,7 @@ We hope to get more information and clarity from the client in week 6.
 
 
 ### Task for this week:
+
 - Finish up requirement video 
 - Understand requirement for back-end
 
