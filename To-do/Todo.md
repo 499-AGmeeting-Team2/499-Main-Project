@@ -1,4 +1,4 @@
 - Install material-ui
 - Design user stories
 - Connect react route to theme
-- Create database for backend 
+- Create database for backend PostGreSQL
