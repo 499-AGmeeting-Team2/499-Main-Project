@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Update logs.docx.">
+    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Add Khai's activityLog for week 6.docx.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
       <updated>1633746154630</updated>
       <workItem from="1633746156907" duration="147000" />
       <workItem from="1633800998406" duration="9000" />
+      <workItem from="1634341410553" duration="1717000" />
     </task>
     <task id="LOCAL-00001" summary="Add unversioned file.">
       <created>1633746259824</created>
@@ -67,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633748778427</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Khai's activityLog for week 6.docx.">
+      <created>1634342336944</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634342336944</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +98,7 @@
     <MESSAGE value="Add Khai's activities log md." />
     <MESSAGE value="Update Khai's activities log md." />
     <MESSAGE value="Update logs.docx." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update logs.docx." />
+    <MESSAGE value="Add Khai's activityLog for week 6.docx." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Khai's activityLog for week 6.docx." />
   </component>
 </project>
