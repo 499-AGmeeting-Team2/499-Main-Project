@@ -6,3 +6,4 @@
 - Complete DFD level 0 and 1 for the video presentation
 - Make presentation for DFD
 - Do group evaluations
+- Install GUI for PostgreSQL - DataGrip
