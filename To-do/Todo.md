@@ -1,4 +1,2 @@
-- Install material-ui
-- Design user stories
-- Connect react route to theme
-- Create database for backend PostGreSQL
+- Clone and run the the project locally
+- Using wireframe as navigation to build the components
