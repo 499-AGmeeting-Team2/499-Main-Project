@@ -1,0 +1,5 @@
+- Work on requirement report
+- Peer evaluation
+- Set up environment
+- Material UI
+- Communicate with client and prof
