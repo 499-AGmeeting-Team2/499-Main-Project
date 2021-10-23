@@ -2,4 +2,5 @@
 - Peer evaluation
 - Set up environment
 - Material UI
+- Study React
 - Communicate with client and prof
