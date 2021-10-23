@@ -3,3 +3,4 @@
 - Set up environment
 - Material UI
 - Communicate with client and prof
+- Study React
