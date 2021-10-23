@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Add Khai's activityLog for week 6.docx.">
+    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Add todo for week6.docx.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +26,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../329/A2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Activity-Logs/Week-7" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\COSC\499\499-Main-Project\Activity-Logs\Week-7" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,7 +43,9 @@
       <updated>1633746154630</updated>
       <workItem from="1633746156907" duration="147000" />
       <workItem from="1633800998406" duration="9000" />
-      <workItem from="1634341410553" duration="1717000" />
+      <workItem from="1634341410553" duration="2989000" />
+      <workItem from="1634452366408" duration="632000" />
+      <workItem from="1634924105720" duration="723000" />
     </task>
     <task id="LOCAL-00001" summary="Add unversioned file.">
       <created>1633746259824</created>
@@ -75,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634342336944</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add Khai's activityLog for week 6.docx.">
+      <created>1634343188345</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634343188345</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
