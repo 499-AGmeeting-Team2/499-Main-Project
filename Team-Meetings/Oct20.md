@@ -23,23 +23,20 @@ Attendees:
 
 ## Learning Activity
 
-- We have identified the techs we will need to learn and use for this project
-- NodeJs
 - React
-- PSQL
-- Redux
-- Axios
-- Webpack
-- PassportJs
+- Material UI
+- Wireframe provided by client
 	
 ## Plan
 - Peer evaluation
+- requirement report
 
 
 ### Task for this week:
 
 - Peer evaluation
 - Set up environment
+- work on requirement report
 
 ## Learning activities proposed for this week:
 - Learning PostgreSQL for back-end
