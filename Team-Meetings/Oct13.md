@@ -1,6 +1,6 @@
 # Team Meetings
 
-Date:	Oct 6, 2021
+Date:	Oct 13, 2021
 Attendees:
 -	Jayant Puri
 -	Karan Gohil
