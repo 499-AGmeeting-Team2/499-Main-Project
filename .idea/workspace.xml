@@ -4,6 +4,7 @@
     <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Add todo for week9.docx.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Activity-Logs/Week-9/Khai-activityLog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Activity-Logs/Week-9/Khai-activityLog.md" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +28,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Project/New-Gamification/canvas-gamification" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Activity-Logs/Week-9" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\COSC\499\499-Main-Project\Activity-Logs\Week-9" />
       <recent name="D:\Study\COSC\499\499-Main-Project\Activity-Logs\Week-7" />
     </key>
   </component>
@@ -48,6 +50,8 @@
       <workItem from="1634452366408" duration="632000" />
       <workItem from="1634924105720" duration="4557000" />
       <workItem from="1634944622549" duration="613000" />
+      <workItem from="1634957468172" duration="642000" />
+      <workItem from="1636151310319" duration="966000" />
     </task>
     <task id="LOCAL-00001" summary="Add unversioned file.">
       <created>1633746259824</created>
