@@ -1,0 +1,3 @@
+- Work on front end based on the wireframe
+- Build tables
+- Learn React
