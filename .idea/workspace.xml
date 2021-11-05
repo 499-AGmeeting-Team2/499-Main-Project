@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Add todo for week9.docx.">
+    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Update todo for week9.docx.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity-Logs/Week-9/Khai-activityLog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Activity-Logs/Week-9/Khai-activityLog.md" afterDir="false" />
-
+      <change beforePath="$PROJECT_DIR$/To-do/Todo.md" beforeDir="false" afterPath="$PROJECT_DIR$/To-do/Todo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
