@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Add todo for week7.docx.">
+    <list default="true" id="a0585cb1-1607-48a6-9a95-0cf5c9630d11" name="Changes" comment="Add todo for week9.docx.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Activity-Logs/Week-7/Khai-activityLog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Activity-Logs/Week-7/Khai-activityLog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity-Logs/Week-9/Khai-activityLog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Activity-Logs/Week-9/Khai-activityLog.md" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,12 +102,12 @@
       <option name="project" value="LOCAL" />
       <updated>1634925982021</updated>
     </task>
-    <task id="LOCAL-00008" summary="Add todo for week7.docx.">
-      <created>1634957496601</created>
+    <task id="LOCAL-00008" summary="Add todo for week9.docx.">
+      <created>1636152664168</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1634957496601</updated>
+      <updated>1636152664168</updated>
     </task>
     <option name="localTasksCounter" value="9" />
     <servers />
@@ -133,6 +134,7 @@
     <MESSAGE value="Update logs.docx." />
     <MESSAGE value="Add Khai's activityLog for week 6.docx." />
     <MESSAGE value="Add todo for week7.docx." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add todo for week7.docx." />
+    <MESSAGE value="Add todo for week9.docx." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add todo for week9.docx." />
   </component>
 </project>
